@@ -1,0 +1,8 @@
+In file SimpleTest:
+Contains python script and .exe file for bluetooth connection
+
+Steps for simple test
+1. Turn on haptic Glove
+2. Run .exe file
+3. Calibrate Glove
+4. Glove Data will be displayed on cmd promt
